@@ -1,0 +1,126 @@
+
+# 2025-11-29 03:00:48.363335
++Code the following app
++```
++
++✅ BMI Calculator App — Complete Prompt
++
++Prompt:
++“I want you to build a complete mini BMI Calculator App.
++
++App Details
++
++Name: BMI Calculator
++Purpose: Users will enter their height and weight → the app will calculate BMI and show the result category (Underweight, Normal, Overweight, Obese).
++
++Features
++
++Input fields for height (cm or meters) and weight (kg)
++
++Button to calculate BMI
++
++Automatic BMI result display
++
++BMI classification:
++
++Below 18.5 → Underweight
++
++18.5 to 24.9 → Normal
++
++25 to 29.9 → Overweight
++
++30+ → Obesity
++
++
++Simple error handling (e.g., empty fields)
++
++Clean and modern UI
++
++
++Platform / Tech Stack
++
++Web App using HTML + CSS + JavaScript
++
++
++Output Requirements
++
++Provide the full working code
++
++Provide the file structure (HTML, CSS, JS)
++
++Provide instructions on how to run it
++
++Make the design clean, responsive, and beginner-friendly
++
++Optional improvements or suggestions after generating the app
++
++
++Build everything in one response.”
++
++
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-29 03:00:48.363734
++Code the following app
++```
++
++✅ BMI Calculator App — Complete Prompt
++
++Prompt:
++“I want you to build a complete mini BMI Calculator App.
++
++App Details
++
++Name: BMI Calculator
++Purpose: Users will enter their height and weight → the app will calculate BMI and show the result category (Underweight, Normal, Overweight, Obese).
++
++Features
++
++Input fields for height (cm or meters) and weight (kg)
++
++Button to calculate BMI
++
++Automatic BMI result display
++
++BMI classification:
++
++Below 18.5 → Underweight
++
++18.5 to 24.9 → Normal
++
++25 to 29.9 → Overweight
++
++30+ → Obesity
++
++
++Simple error handling (e.g., empty fields)
++
++Clean and modern UI
++
++
++Platform / Tech Stack
++
++Web App using HTML + CSS + JavaScript
++
++
++Output Requirements
++
++Provide the full working code
++
++Provide the file structure (HTML, CSS, JS)
++
++Provide instructions on how to run it
++
++Make the design clean, responsive, and beginner-friendly
++
++Optional improvements or suggestions after generating the app
++
++
++Build everything in one response.”
++
++
++```
++
++Generate an app logo and update the app metadata title and description.
